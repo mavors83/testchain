@@ -2,7 +2,7 @@
   "name": "NexiCoin",
   "symbol": "NXC",
   "description": "La stablecoin euro-native della rete NexiChain",
-  "image": "https://raw.github.com/mavors83/testchain/blob/main/NXC.png",
+  "image": "https://raw.githubusercontent.com/mavors83/testchain/main/NXC.png",
   "attributes": [
     { "trait_type": "currency", "value": "EUR" },
     { "trait_type": "issuer", "value": "NexiChain Consortium" },
